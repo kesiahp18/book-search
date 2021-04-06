@@ -11,8 +11,10 @@ This is a web application. Try it now by visiting [the deployed website](https:/
 ## Technologies
 * node.js
 * Mongoose
-* Manifest
-* IndexedDB
+* React
+* Express
+* Apollo Server
+* bcrypt
 
 ## Questions?
 If you have any questions send an email to kesiahp18@gmail.com to have your questions answered.
